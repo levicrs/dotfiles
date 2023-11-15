@@ -1,0 +1,51 @@
+2023-11-14 17:42:00.099 [info] Telemetry level is off
+2023-11-14 17:42:00.099 [info] Experiments are disabled, only manually opted experiments are active.
+2023-11-14 17:42:00.099 [info] Default formatter is set to null for workspace /home/slevi/projs/PY_WS_casas
+2023-11-14 17:42:00.099 [info] Test server listening.
+2023-11-14 17:42:00.099 [info] > conda info --json
+2023-11-14 17:42:00.099 [info] Found: /bin/python --> /bin/python3.11
+2023-11-14 17:42:00.100 [info] Found: /bin/python3 --> /bin/python3.11
+2023-11-14 17:42:00.100 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-11-14 17:42:00.102 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.102 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 17:42:00.110 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 17:42:00.113 [info] Found: /sbin/python --> /sbin/python3.11
+2023-11-14 17:42:00.113 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-11-14 17:42:00.113 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-11-14 17:42:00.117 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-11-14 17:42:00.117 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-11-14 17:42:00.117 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-11-14 17:42:00.141 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-11-14 17:42:00.141 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-11-14 17:42:00.141 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-11-14 17:42:00.155 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/interpreterInfo.py
+2023-11-14 17:42:00.164 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/interpreterInfo.py
+2023-11-14 17:42:00.188 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/interpreterInfo.py
+2023-11-14 17:42:00.196 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0-universal/pythonFiles/interpreterInfo.py
+2023-11-14 17:42:00.246 [info] Python interpreter path: /bin/python
+2023-11-14 17:42:00.257 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 17:42:00.997 [info] Starting Jedi language server for PY_WS_casas.
+2023-11-14 17:42:23.708 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:42:23.845 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:48:05.980 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:48:06.227 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:50:17.274 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:50:17.520 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:59:05.444 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 17:59:05.690 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:00:55.033 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:02:07.216 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:02:07.461 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:04:50.956 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:04:51.199 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:05:05.416 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:05:05.658 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:05:32.546 [info] Send text to terminal: /bin/python /home/slevi/projs/PY_WS_casas/wbcasas.py
+2023-11-14 18:05:32.789 [info] Discover tests for workspace name: PY_WS_casas - uri: /home/slevi/projs/PY_WS_casas/wbcasas.py

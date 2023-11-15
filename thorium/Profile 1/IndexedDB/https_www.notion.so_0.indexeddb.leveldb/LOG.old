@@ -1,0 +1,14 @@
+2023/11/14-13:30:16.997 6e7 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/14-13:30:16.997 6e7 Recovering log #232
+2023/11/14-13:30:16.997 6e7 Reusing old log /home/slevi/.config/thorium/Profile 1/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000232.log 
+2023/11/14-13:30:16.998 6e7 Delete type=2 #230
+2023/11/14-13:30:18.434 7b8 Level-0 table #237: started
+2023/11/14-13:30:18.441 7b8 Level-0 table #237: 2873 bytes OK
+2023/11/14-13:30:18.447 7b8 Delete type=0 #232
+2023/11/14-13:30:18.448 6e7 Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at '\x002\x00\x00\x05' @ 864624 : 1
+2023/11/14-13:30:18.448 6e7 Compacting 1@0 + 1@1 files
+2023/11/14-13:30:18.451 6e7 Generated table #238@0: 48 keys, 1123 bytes
+2023/11/14-13:30:18.451 6e7 Compacted 1@0 + 1@1 files => 1123 bytes
+2023/11/14-13:30:18.457 6e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/14-13:30:18.457 6e7 Delete type=2 #237
+2023/11/14-13:30:18.457 6e7 Manual compaction at level-0 from '\x002\x00\x00\x05' @ 864624 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)

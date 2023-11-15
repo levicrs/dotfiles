@@ -1,0 +1,26 @@
+2023-11-15 14:26:00.531 [info] Installing extension: ms-dotnettools.csdevkit
+2023-11-15 14:26:01.625 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2023-11-15 14:26:02.138 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime ms-dotnettools.csdevkit
+2023-11-15 14:26:03.242 [info] Extension signature verification is not done: ms-dotnettools.vscode-dotnet-runtime
+2023-11-15 14:26:03.334 [info] Extracted extension to file:///home/slevi/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.0.0-universal: ms-dotnettools.vscode-dotnet-runtime
+2023-11-15 14:26:03.342 [info] Renamed to /home/slevi/.vscode-oss/extensions/ms-dotnettools.vscode-dotnet-runtime-2.0.0-universal
+2023-11-15 14:26:03.344 [info] Extracting extension completed. ms-dotnettools.vscode-dotnet-runtime
+2023-11-15 14:26:03.431 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-15 14:26:06.023 [info] Extracted extension to file:///home/slevi/.vscode-oss/extensions/ms-dotnettools.csdevkit-1.1.9: ms-dotnettools.csdevkit
+2023-11-15 14:26:06.038 [info] Renamed to /home/slevi/.vscode-oss/extensions/ms-dotnettools.csdevkit-1.1.9
+2023-11-15 14:26:06.044 [info] Extracting extension completed. ms-dotnettools.csdevkit
+2023-11-15 14:26:06.057 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime
+2023-11-15 14:26:06.057 [info] Extension installed successfully: ms-dotnettools.csdevkit
+2023-11-15 14:26:06.131 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

@@ -1,0 +1,6 @@
+2023/11/12-00:54:36.039 93d Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2023/11/12-00:54:36.048 93d Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/12-00:54:46.501 93e Level-0 table #5: started
+2023/11/12-00:54:46.505 93e Level-0 table #5: 3414 bytes OK
+2023/11/12-00:54:46.511 93e Delete type=0 #3
+2023/11/12-00:54:46.511 93e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

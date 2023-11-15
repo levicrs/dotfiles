@@ -1,0 +1,28 @@
+2023/11/10-18:31:48.917 fa8 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_notioncovergenerator.com_0.indexeddb.leveldb since it was missing.
+2023/11/10-18:31:48.936 fa8 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_notioncovergenerator.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/10-18:31:48.970 fa8 Level-0 table #5: started
+2023/11/10-18:31:48.974 fa8 Level-0 table #5: 1242 bytes OK
+2023/11/10-18:31:48.988 fa8 Delete type=0 #3
+2023/11/10-18:31:48.988 fa8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/10-18:46:22.390 fab Level-0 table #7: started
+2023/11/10-18:46:22.397 fab Level-0 table #7: 2040 bytes OK
+2023/11/10-18:46:22.405 fab Delete type=0 #4
+2023/11/10-18:46:22.406 fab Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/10-18:46:44.265 fa9 Compacting 1@1 + 1@2 files
+2023/11/10-18:46:44.276 fa9 Generated table #8@1: 38 keys, 1169 bytes
+2023/11/10-18:46:44.276 fa9 Compacted 1@1 + 1@2 files => 1169 bytes
+2023/11/10-18:46:44.283 fa9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/10-18:46:44.283 fa9 Delete type=2 #5
+2023/11/10-18:46:44.283 fa9 Delete type=2 #7
+2023/11/10-20:31:10.367 fa9 Level-0 table #10: started
+2023/11/10-20:31:10.370 fa9 Level-0 table #10: 5065 bytes OK
+2023/11/10-20:31:10.376 fa9 Delete type=0 #6
+2023/11/10-20:31:10.377 fa9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/10-20:31:10.377 fa9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x006\x00o\x00r\x00G\x004\x007\x00T\x00s\x00n\x004\x00Y\x00g\x002\x00L\x00W\x004\x00H\x00O\x00J\x00H\x006\x00d\x00t\x00S\x00y\x00I\x00c\x00Y\x00B\x007\x008\x00U\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 179 : 1
+2023/11/10-20:31:10.377 fa9 Compacting 1@1 + 1@2 files
+2023/11/10-20:31:10.380 fa9 Generated table #11@1: 36 keys, 2934 bytes
+2023/11/10-20:31:10.380 fa9 Compacted 1@1 + 1@2 files => 2934 bytes
+2023/11/10-20:31:10.386 fa9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/10-20:31:10.386 fa9 Delete type=2 #8
+2023/11/10-20:31:10.386 fa9 Delete type=2 #10
+2023/11/10-20:31:10.386 fa9 Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00A\x006\x00o\x00r\x00G\x004\x007\x00T\x00s\x00n\x004\x00Y\x00g\x002\x00L\x00W\x004\x00H\x00O\x00J\x00H\x006\x00d\x00t\x00S\x00y\x00I\x00c\x00Y\x00B\x007\x008\x00U\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 179 : 1 .. (end); will stop at (end)

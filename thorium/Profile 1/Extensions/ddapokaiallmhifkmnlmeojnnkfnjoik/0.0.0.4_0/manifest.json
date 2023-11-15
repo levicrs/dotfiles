@@ -1,0 +1,30 @@
+{
+   "description": "A cyberpunk theme with neon pink color.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArILYxZZxEu27tgxUkYYVUPxSDwpyJWTHqo+UXn1krsU4Ibl9IcLcchVQz0NufyZzbqmNJvodN023i+WwsOoR0a24mLmQDJ5XyrokFpp59S3Xax+KIlW2AMm3m0HkrVcYGocWIg/6A8YK2SKK5Ed8Tw0klGjMj/tw+U17u6B3X2ykMeIhYisdJSuXsurWqgK0u1WXCr7f3lw75LyfmxyBIl0EqPLa4bZWy5J1obZw2V/6PaCWh5MaNzj1+6WsDLjHA+C3tqtPV+YeRfwOJ6BcNlzlhQ2a0iGwtfAcFYl6/SShuU09kE9Xg3vdoo/qBXq5P3twPUzIxRpAsHTUbjFBnwIDAQAB",
+   "manifest_version": 2,
+   "name": "Cyberpunk Neon Pink",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 254, 25, 119 ],
+         "button_background": [ 16, 13, 35, 0 ],
+         "frame": [ 11, 10, 26 ],
+         "frame_inactive": [ 11, 10, 26 ],
+         "frame_incognito": [ 9, 12, 23 ],
+         "ntp_background": [ 10, 8, 23 ],
+         "ntp_link": [ 255, 240, 34 ],
+         "ntp_text": [ 0, 255, 156 ],
+         "tab_background_text": [ 255, 52, 143 ],
+         "tab_text": [ 254, 25, 119 ],
+         "toolbar": [ 10, 8, 23 ]
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.35, 1, 0.72 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.4"
+}

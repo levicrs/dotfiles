@@ -1,0 +1,29 @@
+2023-11-14 17:41:13.617 [info] Getting Manifest... enkia.tokyo-night
+2023-11-14 17:41:14.681 [info] Installing extension: enkia.tokyo-night
+2023-11-14 17:41:15.763 [info] Extension signature verification is not done: enkia.tokyo-night
+2023-11-14 17:41:15.797 [info] Extracted extension to file:///home/slevi/.vscode-oss/extensions/enkia.tokyo-night-1.0.6-universal: enkia.tokyo-night
+2023-11-14 17:41:15.803 [info] Renamed to /home/slevi/.vscode-oss/extensions/enkia.tokyo-night-1.0.6-universal
+2023-11-14 17:41:15.805 [info] Extracting extension completed. enkia.tokyo-night
+2023-11-14 17:41:15.815 [info] Extension installed successfully: enkia.tokyo-night
+2023-11-14 17:41:15.817 [info] Marked extension as uninstalled enkia.tokyo-night-1.0.5-universal
+2023-11-14 17:41:15.891 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35849)
+    at a (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35983)
+    at s.toFileSystemProviderError (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12681)
+2023-11-14 17:41:54.546 [info] Getting Manifest... ms-python.python
+2023-11-14 17:41:54.723 [info] Installing extension: ms-python.python
+2023-11-14 17:41:57.955 [info] Extension signature verification is not done: ms-python.python
+2023-11-14 17:41:59.627 [info] Extracted extension to file:///home/slevi/.vscode-oss/extensions/ms-python.python-2023.20.0-universal: ms-python.python
+2023-11-14 17:41:59.641 [info] Renamed to /home/slevi/.vscode-oss/extensions/ms-python.python-2023.20.0-universal
+2023-11-14 17:41:59.645 [info] Extracting extension completed. ms-python.python
+2023-11-14 17:41:59.656 [info] Extension installed successfully: ms-python.python
+2023-11-14 17:41:59.734 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/slevi/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35849)
+    at a (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35983)
+    at s.toFileSystemProviderError (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47852)
+    at s.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:38447)
+    at async C.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20932)
+    at async Y.onDidFilesChange (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12681)

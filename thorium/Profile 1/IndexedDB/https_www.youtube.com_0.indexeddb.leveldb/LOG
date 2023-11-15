@@ -1,0 +1,21 @@
+2023/11/15-10:27:46.959 81a Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-10:27:46.960 81a Recovering log #128
+2023/11/15-10:27:46.967 81a Reusing old log /home/slevi/.config/thorium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000128.log 
+2023/11/15-10:58:22.102 81b Level-0 table #133: started
+2023/11/15-10:58:22.121 81b Level-0 table #133: 1321990 bytes OK
+2023/11/15-10:58:22.128 81b Delete type=0 #128
+2023/11/15-11:00:54.529 81b Compacting 1@1 + 1@2 files
+2023/11/15-11:00:54.539 81b Generated table #134@1: 461 keys, 47336 bytes
+2023/11/15-11:00:54.539 81b Compacted 1@1 + 1@2 files => 47336 bytes
+2023/11/15-11:00:54.544 81b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-11:00:54.545 81b Delete type=2 #130
+2023/11/15-11:00:54.545 81b Delete type=2 #133
+2023/11/15-14:09:59.874 81b Level-0 table #136: started
+2023/11/15-14:09:59.890 81b Level-0 table #136: 1215471 bytes OK
+2023/11/15-14:09:59.897 81b Delete type=0 #132
+2023/11/15-14:15:50.527 81b Compacting 1@1 + 1@2 files
+2023/11/15-14:15:50.539 81b Generated table #137@1: 719 keys, 77090 bytes
+2023/11/15-14:15:50.539 81b Compacted 1@1 + 1@2 files => 77090 bytes
+2023/11/15-14:15:50.545 81b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-14:15:50.545 81b Delete type=2 #134
+2023/11/15-14:15:50.545 81b Delete type=2 #136

@@ -1,0 +1,21 @@
+2023/11/15-18:58:47.345 81a Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-18:58:47.346 81a Recovering log #7
+2023/11/15-18:58:47.348 81a Reusing old log /home/slevi/.config/thorium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2023/11/15-18:58:50.564 81b Compacting 1@1 + 1@2 files
+2023/11/15-18:58:50.589 81b Generated table #10@1: 240 keys, 566377 bytes
+2023/11/15-18:58:50.589 81b Compacted 1@1 + 1@2 files => 566377 bytes
+2023/11/15-18:58:50.595 81b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-18:58:50.595 81b Delete type=2 #5
+2023/11/15-18:58:50.596 81b Delete type=2 #8
+2023/11/15-19:03:24.426 81b Level-0 table #12: started
+2023/11/15-19:03:24.448 81b Level-0 table #12: 1551104 bytes OK
+2023/11/15-19:03:24.456 81b Delete type=0 #7
+2023/11/15-19:03:24.457 81b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/15-19:03:24.457 81b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 3615 : 0
+2023/11/15-19:03:24.457 81b Compacting 1@1 + 1@2 files
+2023/11/15-19:03:24.467 81b Generated table #13@1: 81 keys, 127288 bytes
+2023/11/15-19:03:24.467 81b Compacted 1@1 + 1@2 files => 127288 bytes
+2023/11/15-19:03:24.473 81b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-19:03:24.473 81b Delete type=2 #10
+2023/11/15-19:03:24.473 81b Delete type=2 #12
+2023/11/15-19:03:24.474 81b Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 3615 : 0 .. (end); will stop at (end)

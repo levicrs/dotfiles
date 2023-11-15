@@ -1,0 +1,6 @@
+2023/11/07-13:55:13.469 548 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2023/11/07-13:55:13.478 548 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/07-13:56:16.407 549 Level-0 table #5: started
+2023/11/07-13:56:16.411 549 Level-0 table #5: 5944 bytes OK
+2023/11/07-13:56:16.417 549 Delete type=0 #3
+2023/11/07-13:56:16.417 549 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

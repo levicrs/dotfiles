@@ -1,0 +1,6 @@
+2023/11/14-20:30:31.979 24b3 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_widget.clym-sdk.net_0.indexeddb.leveldb since it was missing.
+2023/11/14-20:30:31.993 24b3 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_widget.clym-sdk.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/14-20:30:49.572 24b4 Level-0 table #5: started
+2023/11/14-20:30:49.575 24b4 Level-0 table #5: 6025 bytes OK
+2023/11/14-20:30:49.581 24b4 Delete type=0 #3
+2023/11/14-20:30:49.581 24b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

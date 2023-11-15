@@ -1,0 +1,18 @@
+2023/11/15-10:27:41.002 829 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/Extension State/MANIFEST-000001
+2023/11/15-10:27:41.005 829 Recovering log #58
+2023/11/15-10:27:41.043 829 Reusing old log /home/slevi/.config/thorium/Profile 1/Extension State/000058.log 
+2023/11/15-10:27:41.357 81a Level-0 table #62: started
+2023/11/15-10:27:41.391 81a Level-0 table #62: 2593900 bytes OK
+2023/11/15-10:27:41.399 81a Delete type=0 #58
+2023/11/15-18:43:11.315 81a Level-0 table #64: started
+2023/11/15-18:43:11.342 81a Level-0 table #64: 2560012 bytes OK
+2023/11/15-18:43:11.350 81a Delete type=0 #61
+2023/11/15-18:43:11.352 81a Compacting 4@0 + 1@1 files
+2023/11/15-18:43:11.378 81a Generated table #65@0: 5 keys, 9619 bytes
+2023/11/15-18:43:11.378 81a Compacted 4@0 + 1@1 files => 9619 bytes
+2023/11/15-18:43:11.384 81a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/15-18:43:11.384 81a Delete type=2 #53
+2023/11/15-18:43:11.384 81a Delete type=2 #56
+2023/11/15-18:43:11.384 81a Delete type=2 #59
+2023/11/15-18:43:11.384 81a Delete type=2 #62
+2023/11/15-18:43:11.384 81a Delete type=2 #64

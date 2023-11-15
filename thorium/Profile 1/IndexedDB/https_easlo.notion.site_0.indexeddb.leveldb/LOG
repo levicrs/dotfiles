@@ -1,0 +1,26 @@
+2023/11/07-00:04:20.870 806 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_easlo.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/07-00:04:20.870 806 Recovering log #4
+2023/11/07-00:04:20.870 806 Reusing old log /home/slevi/.config/thorium/Profile 1/IndexedDB/https_easlo.notion.site_0.indexeddb.leveldb/000004.log 
+2023/11/07-00:04:24.341 80a Level-0 table #8: started
+2023/11/07-00:04:24.347 80a Level-0 table #8: 537 bytes OK
+2023/11/07-00:04:24.360 80a Delete type=0 #4
+2023/11/07-00:04:24.361 806 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/07-00:31:59.498 806 Level-0 table #10: started
+2023/11/07-00:31:59.501 806 Level-0 table #10: 256 bytes OK
+2023/11/07-00:31:59.507 806 Delete type=0 #7
+2023/11/07-00:31:59.507 806 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x07\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 215 : 0
+2023/11/07-00:31:59.507 806 Compacting 1@0 + 1@1 files
+2023/11/07-00:31:59.510 806 Generated table #11@0: 9 keys, 512 bytes
+2023/11/07-00:31:59.510 806 Compacted 1@0 + 1@1 files => 512 bytes
+2023/11/07-00:31:59.517 806 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/07-00:31:59.517 806 Delete type=2 #8
+2023/11/07-00:31:59.517 806 Delete type=2 #10
+2023/11/07-00:31:59.517 806 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x07\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 215 : 0 .. (end); will stop at (end)
+2023/11/07-00:31:59.517 806 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\xc9\x1b\x00h\x00t\x00t\x00p\x00s\x00_\x00e\x00a\x00s\x00l\x00o\x00.\x00n\x00o\x00t\x00i\x00o\x00n\x00.\x00s\x00i\x00t\x00e\x00_\x000\x00@\x001\x14\x00C\x00h\x00r\x00o\x00m\x00e\x009\x009\x00F\x00e\x00a\x00t\x00u\x00r\x00e\x00C\x00h\x00e\x00c\x00k' @ 205 : 0
+2023/11/07-00:31:59.517 806 Compacting 1@1 + 1@2 files
+2023/11/07-00:31:59.520 806 Generated table #12@1: 56 keys, 1045 bytes
+2023/11/07-00:31:59.520 806 Compacted 1@1 + 1@2 files => 1045 bytes
+2023/11/07-00:31:59.526 806 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/07-00:31:59.526 806 Delete type=2 #5
+2023/11/07-00:31:59.526 806 Delete type=2 #11
+2023/11/07-00:31:59.526 806 Manual compaction at level-1 from '\x00\x00\x00\x00\xc9\x1b\x00h\x00t\x00t\x00p\x00s\x00_\x00e\x00a\x00s\x00l\x00o\x00.\x00n\x00o\x00t\x00i\x00o\x00n\x00.\x00s\x00i\x00t\x00e\x00_\x000\x00@\x001\x14\x00C\x00h\x00r\x00o\x00m\x00e\x009\x009\x00F\x00e\x00a\x00t\x00u\x00r\x00e\x00C\x00h\x00e\x00c\x00k' @ 205 : 0 .. (end); will stop at (end)

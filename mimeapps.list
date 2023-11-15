@@ -1,0 +1,15 @@
+[Added Associations]
+application/x-shellscript=xed.desktop;
+application/x-fishscript=codium.desktop;
+application/x-zerosize=codium.desktop;
+text/plain=codium.desktop;
+text/x-csrc=codium.desktop;
+application/pdf=thorium-browser.desktop;
+application/epub+zip=FBReader.desktop;
+application/zip=code-oss.desktop;
+
+[Default Applications]
+application/x-zerosize=codium.desktop
+x-scheme-handler/notion=notion-app.desktop
+application/pdf=thorium-browser.desktop
+application/ppdf=FoxitReader.desktop

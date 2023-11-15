@@ -1,0 +1,6 @@
+2023-11-15 14:10:16.390 [info] Telemetry level is off
+2023-11-15 14:10:16.390 [info] Experiments are disabled, only manually opted experiments are active.
+2023-11-15 14:10:16.418 [info] Default formatter is set to null for workspace /home/slevi/projs/PY_WS_casas
+2023-11-15 14:10:16.436 [info] Test server listening.
+2023-11-15 14:10:16.437 [info] Python interpreter path: /bin/python
+2023-11-15 14:10:17.615 [info] Starting Jedi language server for PY_WS_casas.

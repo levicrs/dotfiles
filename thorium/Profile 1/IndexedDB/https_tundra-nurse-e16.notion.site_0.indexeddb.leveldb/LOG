@@ -1,0 +1,6 @@
+2023/11/07-02:19:10.711 806 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_tundra-nurse-e16.notion.site_0.indexeddb.leveldb since it was missing.
+2023/11/07-02:19:10.719 806 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_tundra-nurse-e16.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/07-02:19:11.954 806 Level-0 table #5: started
+2023/11/07-02:19:11.957 806 Level-0 table #5: 2635 bytes OK
+2023/11/07-02:19:11.963 806 Delete type=0 #3
+2023/11/07-02:19:11.963 806 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

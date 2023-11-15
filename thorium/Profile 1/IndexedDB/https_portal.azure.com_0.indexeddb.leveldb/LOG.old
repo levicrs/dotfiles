@@ -1,0 +1,6 @@
+2023/11/15-18:36:49.010 81a Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_portal.azure.com_0.indexeddb.leveldb since it was missing.
+2023/11/15-18:36:49.023 81a Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_portal.azure.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-18:37:06.996 81b Level-0 table #5: started
+2023/11/15-18:37:06.999 81b Level-0 table #5: 909 bytes OK
+2023/11/15-18:37:07.005 81b Delete type=0 #3
+2023/11/15-18:37:07.005 81b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

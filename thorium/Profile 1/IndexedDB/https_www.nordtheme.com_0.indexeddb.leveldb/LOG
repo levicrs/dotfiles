@@ -1,0 +1,6 @@
+2023/11/14-14:41:42.764 d1c Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb since it was missing.
+2023/11/14-14:41:42.773 d1c Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/14-14:42:28.245 d1d Level-0 table #5: started
+2023/11/14-14:42:28.248 d1d Level-0 table #5: 2930 bytes OK
+2023/11/14-14:42:28.254 d1d Delete type=0 #3
+2023/11/14-14:42:28.255 d1d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

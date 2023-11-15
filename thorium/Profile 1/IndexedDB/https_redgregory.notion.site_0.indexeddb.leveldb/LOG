@@ -1,0 +1,18 @@
+2023/11/09-11:24:46.757 55a Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_redgregory.notion.site_0.indexeddb.leveldb since it was missing.
+2023/11/09-11:24:46.767 55a Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_redgregory.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/09-11:24:48.226 55a Level-0 table #5: started
+2023/11/09-11:24:48.230 55a Level-0 table #5: 2156 bytes OK
+2023/11/09-11:24:48.237 55a Delete type=0 #3
+2023/11/09-11:24:48.238 55a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/09-11:25:20.717 55b Level-0 table #7: started
+2023/11/09-11:25:20.720 55b Level-0 table #7: 713 bytes OK
+2023/11/09-11:25:20.726 55b Delete type=0 #4
+2023/11/09-11:25:20.726 55b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/11/09-11:25:20.726 55b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 138 : 0
+2023/11/09-11:25:20.726 55b Compacting 1@1 + 1@2 files
+2023/11/09-11:25:20.729 55b Generated table #8@1: 56 keys, 1048 bytes
+2023/11/09-11:25:20.729 55b Compacted 1@1 + 1@2 files => 1048 bytes
+2023/11/09-11:25:20.736 55b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-11:25:20.736 55b Delete type=2 #5
+2023/11/09-11:25:20.736 55b Delete type=2 #7
+2023/11/09-11:25:20.737 55b Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x02\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 138 : 0 .. (end); will stop at (end)

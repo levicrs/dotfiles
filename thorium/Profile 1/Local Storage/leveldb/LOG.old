@@ -1,0 +1,34 @@
+2023/11/14-16:48:10.250 3 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2023/11/14-16:48:10.252 3 Recovering log #2703
+2023/11/14-16:48:10.252 3 Reusing old log /home/slevi/.config/thorium/Profile 1/Local Storage/leveldb/002703.log 
+2023/11/14-16:51:31.371 3 Level-0 table #2710: started
+2023/11/14-16:51:31.377 3 Level-0 table #2710: 21071 bytes OK
+2023/11/14-16:51:31.385 3 Delete type=0 #2703
+2023/11/14-16:52:35.774 5 Level-0 table #2712: started
+2023/11/14-16:52:35.785 5 Level-0 table #2712: 21877 bytes OK
+2023/11/14-16:52:35.793 5 Delete type=0 #2709
+2023/11/14-17:08:34.462 3 Level-0 table #2714: started
+2023/11/14-17:08:34.466 3 Level-0 table #2714: 19976 bytes OK
+2023/11/14-17:08:34.477 3 Delete type=0 #2711
+2023/11/14-18:07:48.407 5 Level-0 table #2716: started
+2023/11/14-18:07:48.418 5 Level-0 table #2716: 18392 bytes OK
+2023/11/14-18:07:48.426 5 Delete type=0 #2713
+2023/11/14-18:07:48.427 5 Compacting 4@0 + 3@1 files
+2023/11/14-18:07:48.452 5 Generated table #2717@0: 1373 keys, 2221973 bytes
+2023/11/14-18:07:48.477 5 Generated table #2718@0: 3893 keys, 2104233 bytes
+2023/11/14-18:07:48.489 5 Generated table #2719@0: 778 keys, 629008 bytes
+2023/11/14-18:07:48.489 5 Compacted 4@0 + 3@1 files => 4955214 bytes
+2023/11/14-18:07:48.496 5 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/11/14-18:07:48.497 5 Delete type=2 #2705
+2023/11/14-18:07:48.498 5 Delete type=2 #2706
+2023/11/14-18:07:48.498 5 Delete type=2 #2707
+2023/11/14-18:07:48.498 5 Delete type=2 #2710
+2023/11/14-18:07:48.498 5 Delete type=2 #2712
+2023/11/14-18:07:48.498 5 Delete type=2 #2714
+2023/11/14-18:07:48.498 5 Delete type=2 #2716
+2023/11/14-20:31:13.353 3 Level-0 table #2721: started
+2023/11/14-20:31:13.364 3 Level-0 table #2721: 186739 bytes OK
+2023/11/14-20:31:13.371 3 Delete type=0 #2715
+2023/11/14-20:56:59.929 5 Level-0 table #2723: started
+2023/11/14-20:56:59.940 5 Level-0 table #2723: 25366 bytes OK
+2023/11/14-20:56:59.947 5 Delete type=0 #2720

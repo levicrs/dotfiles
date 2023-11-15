@@ -1,0 +1,6 @@
+2023/11/14-16:48:10.317 24c1 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/Service Worker/Database/MANIFEST-000001
+2023/11/14-16:48:10.317 24c1 Recovering log #3
+2023/11/14-16:48:10.319 24c1 Reusing old log /home/slevi/.config/thorium/Profile 1/Service Worker/Database/000003.log 
+2023/11/14-17:06:09.286 24b4 Level-0 table #5: started
+2023/11/14-17:06:09.297 24b4 Level-0 table #5: 116647 bytes OK
+2023/11/14-17:06:09.304 24b4 Delete type=0 #3

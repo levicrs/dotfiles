@@ -1,0 +1,6 @@
+2023/11/05-22:48:57.990 5fd Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_app.capacities.io_0.indexeddb.leveldb since it was missing.
+2023/11/05-22:48:57.999 5fd Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_app.capacities.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/06-02:23:40.450 5fd Level-0 table #5: started
+2023/11/06-02:23:40.455 5fd Level-0 table #5: 154939 bytes OK
+2023/11/06-02:23:40.461 5fd Delete type=0 #3
+2023/11/06-02:23:40.461 5fd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,66 @@
+2023/11/15-10:27:40.893 3 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/Session Storage/MANIFEST-000001
+2023/11/15-10:27:40.898 3 Recovering log #89
+2023/11/15-10:27:40.906 3 Reusing old log /home/slevi/.config/thorium/Profile 1/Session Storage/000089.log 
+2023/11/15-10:36:01.875 5 Level-0 table #93: started
+2023/11/15-10:36:01.887 5 Level-0 table #93: 16336 bytes OK
+2023/11/15-10:36:01.894 5 Delete type=0 #89
+2023/11/15-14:53:04.007 3 Level-0 table #95: started
+2023/11/15-14:53:04.018 3 Level-0 table #95: 18878 bytes OK
+2023/11/15-14:53:04.025 3 Delete type=0 #92
+2023/11/15-14:57:52.973 5 Level-0 table #97: started
+2023/11/15-14:57:52.985 5 Level-0 table #97: 13370 bytes OK
+2023/11/15-14:57:52.992 5 Delete type=0 #94
+2023/11/15-14:57:52.993 5 Compacting 4@0 + 1@1 files
+2023/11/15-14:57:52.997 5 Generated table #98@0: 155 keys, 12586 bytes
+2023/11/15-14:57:52.998 5 Compacted 4@0 + 1@1 files => 12586 bytes
+2023/11/15-14:57:53.004 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/15-14:57:53.005 5 Delete type=2 #87
+2023/11/15-14:57:53.005 5 Delete type=2 #90
+2023/11/15-14:57:53.005 5 Delete type=2 #93
+2023/11/15-14:57:53.005 5 Delete type=2 #95
+2023/11/15-14:57:53.005 5 Delete type=2 #97
+2023/11/15-15:06:16.066 3 Level-0 table #100: started
+2023/11/15-15:06:16.078 3 Level-0 table #100: 13781 bytes OK
+2023/11/15-15:06:16.085 3 Delete type=0 #96
+2023/11/15-15:12:22.353 3 Level-0 table #102: started
+2023/11/15-15:12:22.365 3 Level-0 table #102: 13322 bytes OK
+2023/11/15-15:12:22.372 3 Delete type=0 #99
+2023/11/15-17:24:03.720 5 Level-0 table #104: started
+2023/11/15-17:24:03.732 5 Level-0 table #104: 19292 bytes OK
+2023/11/15-17:24:03.739 5 Delete type=0 #101
+2023/11/15-17:34:49.780 3 Level-0 table #106: started
+2023/11/15-17:34:49.792 3 Level-0 table #106: 13483 bytes OK
+2023/11/15-17:34:49.799 3 Delete type=0 #103
+2023/11/15-17:34:49.799 3 Compacting 4@0 + 1@1 files
+2023/11/15-17:34:49.804 3 Generated table #107@0: 243 keys, 18539 bytes
+2023/11/15-17:34:49.804 3 Compacted 4@0 + 1@1 files => 18539 bytes
+2023/11/15-17:34:49.810 3 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/15-17:34:49.811 3 Delete type=2 #98
+2023/11/15-17:34:49.811 3 Delete type=2 #100
+2023/11/15-17:34:49.811 3 Delete type=2 #102
+2023/11/15-17:34:49.811 3 Delete type=2 #104
+2023/11/15-17:34:49.811 3 Delete type=2 #106
+2023/11/15-17:57:30.305 5 Level-0 table #109: started
+2023/11/15-17:57:30.311 5 Level-0 table #109: 16305 bytes OK
+2023/11/15-17:57:30.318 5 Delete type=0 #105
+2023/11/15-17:59:28.773 5 Level-0 table #111: started
+2023/11/15-17:59:28.784 5 Level-0 table #111: 10211 bytes OK
+2023/11/15-17:59:28.791 5 Delete type=0 #108
+2023/11/15-18:12:42.766 3 Level-0 table #113: started
+2023/11/15-18:12:42.773 3 Level-0 table #113: 27876 bytes OK
+2023/11/15-18:12:42.785 3 Delete type=0 #110
+2023/11/15-18:36:24.376 5 Level-0 table #115: started
+2023/11/15-18:36:24.381 5 Level-0 table #115: 23464 bytes OK
+2023/11/15-18:36:24.389 5 Delete type=0 #112
+2023/11/15-18:36:24.389 5 Compacting 4@0 + 1@1 files
+2023/11/15-18:36:24.396 5 Generated table #116@0: 340 keys, 52331 bytes
+2023/11/15-18:36:24.396 5 Compacted 4@0 + 1@1 files => 52331 bytes
+2023/11/15-18:36:24.403 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/15-18:36:24.404 5 Delete type=2 #107
+2023/11/15-18:36:24.404 5 Delete type=2 #109
+2023/11/15-18:36:24.404 5 Delete type=2 #111
+2023/11/15-18:36:24.404 5 Delete type=2 #113
+2023/11/15-18:36:24.404 5 Delete type=2 #115
+2023/11/15-18:44:53.554 5 Level-0 table #118: started
+2023/11/15-18:44:53.560 5 Level-0 table #118: 86529 bytes OK
+2023/11/15-18:44:53.567 5 Delete type=0 #114

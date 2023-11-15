@@ -1,0 +1,6 @@
+2023/11/10-18:46:21.292 fa8 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_notion-cover-generator.firebaseapp.com_0.indexeddb.leveldb since it was missing.
+2023/11/10-18:46:21.302 fa8 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_notion-cover-generator.firebaseapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/10-18:46:23.722 fa8 Level-0 table #5: started
+2023/11/10-18:46:23.725 fa8 Level-0 table #5: 1171 bytes OK
+2023/11/10-18:46:23.732 fa8 Delete type=0 #3
+2023/11/10-18:46:23.732 fa8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

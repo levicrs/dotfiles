@@ -1,0 +1,6 @@
+2023/11/05-15:15:34.541 c2e Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_app.raindrop.io_0.indexeddb.leveldb since it was missing.
+2023/11/05-15:15:34.558 c2e Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_app.raindrop.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/05-22:00:11.598 c2c Level-0 table #5: started
+2023/11/05-22:00:11.603 c2c Level-0 table #5: 99655 bytes OK
+2023/11/05-22:00:11.609 c2c Delete type=0 #3
+2023/11/05-22:00:11.609 c2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

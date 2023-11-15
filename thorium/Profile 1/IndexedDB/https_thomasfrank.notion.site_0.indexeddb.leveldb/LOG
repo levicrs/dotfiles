@@ -1,0 +1,20 @@
+2023/11/09-22:54:57.722 55a Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_thomasfrank.notion.site_0.indexeddb.leveldb since it was missing.
+2023/11/09-22:54:57.738 55a Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_thomasfrank.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/09-22:54:59.501 55a Level-0 table #5: started
+2023/11/09-22:54:59.504 55a Level-0 table #5: 2617 bytes OK
+2023/11/09-22:54:59.510 55a Delete type=0 #3
+2023/11/09-22:54:59.511 55a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/09-22:56:37.641 567 Level-0 table #7: started
+2023/11/09-22:56:37.645 567 Level-0 table #7: 557 bytes OK
+2023/11/09-22:56:37.651 567 Delete type=0 #4
+2023/11/09-22:56:37.651 55a Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/09-23:38:21.373 55d Level-0 table #9: started
+2023/11/09-23:38:21.376 55d Level-0 table #9: 557 bytes OK
+2023/11/09-23:38:21.382 55d Delete type=0 #6
+2023/11/09-23:38:21.382 55a Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 220 : 1
+2023/11/09-23:38:21.382 55a Compacting 1@0 + 1@1 files
+2023/11/09-23:38:21.386 55a Generated table #10@0: 13 keys, 557 bytes
+2023/11/09-23:38:21.386 55a Compacted 1@0 + 1@1 files => 557 bytes
+2023/11/09-23:38:21.392 55a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/09-23:38:21.392 55a Delete type=2 #9
+2023/11/09-23:38:21.392 55a Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 220 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

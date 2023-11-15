@@ -1,0 +1,6 @@
+2023/11/06-13:00:05.696 14d2 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_ghinahabibah.notion.site_0.indexeddb.leveldb since it was missing.
+2023/11/06-13:00:05.705 14d2 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_ghinahabibah.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/06-13:00:07.007 14d1 Level-0 table #5: started
+2023/11/06-13:00:07.010 14d1 Level-0 table #5: 2624 bytes OK
+2023/11/06-13:00:07.016 14d1 Delete type=0 #3
+2023/11/06-13:00:07.016 14d1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2023/11/11-14:55:05.123 93d Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_player.vimeo.com_0.indexeddb.leveldb since it was missing.
+2023/11/11-14:55:05.132 93d Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_player.vimeo.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/11-14:55:07.745 93e Level-0 table #5: started
+2023/11/11-14:55:07.748 93e Level-0 table #5: 1496 bytes OK
+2023/11/11-14:55:07.754 93e Delete type=0 #3
+2023/11/11-14:55:07.754 93e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

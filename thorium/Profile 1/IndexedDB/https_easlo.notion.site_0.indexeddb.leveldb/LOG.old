@@ -1,0 +1,6 @@
+2023/11/06-12:59:21.916 14d1 Creating DB /home/slevi/.config/thorium/Profile 1/IndexedDB/https_easlo.notion.site_0.indexeddb.leveldb since it was missing.
+2023/11/06-12:59:21.925 14d1 Reusing MANIFEST /home/slevi/.config/thorium/Profile 1/IndexedDB/https_easlo.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/06-12:59:23.335 14d4 Level-0 table #5: started
+2023/11/06-12:59:23.339 14d4 Level-0 table #5: 2611 bytes OK
+2023/11/06-12:59:23.345 14d4 Delete type=0 #3
+2023/11/06-12:59:23.345 14d1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
